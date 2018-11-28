@@ -1,12 +1,7 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the restaurant pos project. The following program allows the manager of a small coffee shop to make the customer pick its item, finally giving the total bill. It also allows the manager to see the total sales at the end of the day with all its item too.  
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:POS Coffee Cafe
+PURPOSE OF PROJECT:Assignment
+AUTHORS:Pratima Kandel
